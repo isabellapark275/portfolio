@@ -50,12 +50,12 @@ body {
 .gallery {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 8px;           
-  padding: 12px 6px;  
+  gap: 16px;           
+  padding: 40px 6px;  
 }
 
 .gallery-item img {
-  width: 100%;       
+  width: 80%;       
   height: auto;      
   display: block;     
   margin-bottom: 6px; 
