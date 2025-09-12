@@ -51,7 +51,8 @@ body {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 16px;           
-  padding: 40px 6px;  
+  padding: 10px 6px;  
+  align: center;
 }
 
 .gallery-item img {
@@ -62,7 +63,7 @@ body {
 }
 
 .caption {
-  color: #08ca83;
+  color: #e2dfd5;
   font-size: 1.2rem;
   font-weight: 500;
   margin-left: 3px;
