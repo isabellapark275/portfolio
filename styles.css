@@ -50,15 +50,15 @@ body {
 .gallery {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 14px;
-  padding: 32px 18px;
+  gap: 8px;           
+  padding: 12px 6px;  
 }
+
 .gallery-item img {
-  width: 100%;
-  height: auto;
-  display: block;
-  margin-bottom: 10px;
-  max-width: 25%;
+  width: 100%;       
+  height: auto;      
+  display: block;     
+  margin-bottom: 6px; 
 }
 
 .caption {
