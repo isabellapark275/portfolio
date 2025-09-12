@@ -36,13 +36,13 @@ body {
   transition: color 0.18s;
 }
 .nav-right a:hover {
-  color: #eedba0;
+  color: #28D195;
 }
 
 .navbar-line {
   width: 100vw;
   height: 2px;
-  background: #b7b7b7;
+  background: #28D195;
   opacity: 0.25;
   margin: 32px 0 0 0;
 }
