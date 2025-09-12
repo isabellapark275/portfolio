@@ -1,9 +1,9 @@
 body {
   background: #181818;
   color: #e2dfd5;
-  font-family: "Gruppo", sans-serif;
-  font-weight: 400;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
+  font-weight: 100;
   margin: 0;
 }
 
@@ -16,6 +16,7 @@ body {
   width: 90vw;
   margin: 0 auto;
   font-size: 2rem;
+  font-weight: 900;
 }
 
 .nav-left {
@@ -31,7 +32,7 @@ body {
   color: #e2dfd5;
   text-decoration: none;
   font-size: 1.5rem;
-  font-weight: 300;
+  font-weight: 900;
   transition: color 0.18s;
 }
 .nav-right a:hover {
