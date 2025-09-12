@@ -1,6 +1,6 @@
 body {
   background: #181818;
-  color: #e2dfd5;
+  color: #FFFFFF;
   font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-weight: 100;
@@ -36,13 +36,13 @@ body {
   transition: color 0.18s;
 }
 .nav-right a:hover {
-  color: #28D195;
+  color: #08ca83;
 }
 
 .navbar-line {
   width: 100vw;
   height: 2px;
-  background: #28D195;
+  background: #08ca83;
   opacity: 0.25;
   margin: 32px 0 0 0;
 }
