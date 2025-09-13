@@ -64,11 +64,11 @@ body {
 }
 .ngallery {
   display: grid;
-  grid-template-columns: repeat(2,3fr);
+  grid-template-columns: 1fr 1fr;     
   gap: 16px;          
   margin: 60px auto 0 auto;
   padding: 0 24px;
-  align: center;
+  justify-content: center;
 }
 
 .ngallery img{
@@ -79,15 +79,15 @@ body {
 }
 
 .ngallery-item img.left {
-  width: 80%;       
-  height: auto;      
+  height: 25vw;          
+  width: auto;      
   display: block;     
   margin-bottom: 6px; 
   justify-content: flex-start;
 }
 .ngallery-item img.right {
-  width: 80%;       
-  height: auto;      
+  height: 25vw;          
+  width: auto;     
   display: block;     
   margin-bottom: 6px; 
   justify-content: flex-end;
