@@ -81,14 +81,14 @@ body {
 }
 
 .ngallery-item img.left {
-  height: 25vw;          
+  height: 20vh;          
   width: auto;      
   display: block;     
   margin-bottom: 6px; 
   justify-content: flex-start;
 }
 .ngallery-item img.right {
-  height: 25vw;          
+  height: 20vh;          
   width: auto;     
   display: block;     
   margin-bottom: 6px; 
