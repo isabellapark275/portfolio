@@ -74,21 +74,21 @@ body {
 }
 
 .ngallery img{
-  height: 25vh;                 
+  height: 18vh;                 
   width: auto;                    
   object-fit: contain;            
   display: block; 
 }
 
 .ngallery-item.left {
-  height: 20vh;          
+  height: 18vh;          
   width: auto;      
   display: block;     
   margin-bottom: 6px; 
   justify-content: flex-start;
 }
 .ngallery-item.right {
-  height: 20vh;          
+  height: 18vh;          
   width: auto;     
   display: block;     
   margin-bottom: 6px; 
