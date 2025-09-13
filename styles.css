@@ -61,6 +61,21 @@ body {
   display: block;     
   margin-bottom: 6px; 
 }
+.ngallery {
+  display: grid;
+  grid-template-columns: repeat(3, 2fr);
+  gap: 16px;           
+  padding: 10px 6px;  
+  align: center;
+}
+
+.ngallery-item img {
+  width: 80%;       
+  height: auto;      
+  display: block;     
+  margin-bottom: 6px; 
+}
+
 
 .caption {
   color: #e2dfd5;
