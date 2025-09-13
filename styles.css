@@ -80,19 +80,19 @@ body {
   display: block; 
 }
 
-.ngallery-item img.left {
+.ngallery-item.left {
   height: 20vh;          
   width: auto;      
   display: block;     
   margin-bottom: 6px; 
-  justify-content: right;
+  justify-content: flex-start;
 }
-.ngallery-item img.right {
+.ngallery-item.right {
   height: 20vh;          
   width: auto;     
   display: block;     
   margin-bottom: 6px; 
-  justify-content: left;
+  justify-content: flex-end;
 }
 
 
