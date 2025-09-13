@@ -68,12 +68,26 @@ body {
   padding: 10px 6px;  
   align: center;
 }
+.ngallery img{
+  height: 25vh;                 
+  width: auto;                    
+  object-fit: contain;            
+  display: block; 
+}
 
-.ngallery-item img {
+.ngallery-item img.left {
   width: 80%;       
   height: auto;      
   display: block;     
   margin-bottom: 6px; 
+  justify-content: flex-start;
+}
+.ngallery-item img.right {
+  width: 80%;       
+  height: auto;      
+  display: block;     
+  margin-bottom: 6px; 
+  justify-content: flex-end;
 }
 
 
