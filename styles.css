@@ -65,10 +65,12 @@ body {
 .ngallery {
   display: grid;
   grid-template-columns: repeat(3, 2fr);
-  gap: 16px;           
-  padding: 10px 6px;  
+  gap: 16px;          
+  margin: 60px auto 0 auto;
+  padding: 0 24px;
   align: center;
 }
+
 .ngallery img{
   height: 25vh;                 
   width: auto;                    
