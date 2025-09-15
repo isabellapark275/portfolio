@@ -84,14 +84,14 @@ body {
   height: 20vh;          
   width: auto;      
   display: block;     
-  margin-bottom: 4px; 
+  margin-bottom: 4vh; 
   justify-content: flex-start;
 }
 .ngallery-item.right {
   height: 20vh;          
   width: auto;     
   display: block;     
-  margin-bottom: 4px; 
+  margin-bottom: 4vh; 
   justify-self: end;
 }
 
