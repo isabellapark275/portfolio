@@ -74,25 +74,25 @@ body {
 }
 
 .ngallery img{
-  height: 18vh;                 
+  height: 20vh;                 
   width: auto;                    
   object-fit: contain;            
   display: block; 
 }
 
 .ngallery-item.left {
-  height: 18vh;          
+  height: 20vh;          
   width: auto;      
   display: block;     
-  margin-bottom: 6px; 
+  margin-bottom: 4px; 
   justify-content: flex-start;
 }
 .ngallery-item.right {
-  height: 18vh;          
+  height: 20vh;          
   width: auto;     
   display: block;     
-  margin-bottom: 6px; 
-  justify-content: flex-end;
+  margin-bottom: 4px; 
+  justify-self: end;
 }
 
 
