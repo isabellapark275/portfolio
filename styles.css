@@ -1,6 +1,6 @@
 body {
-  background: #181818;
-  color: #FFFFFF;
+  background: #FFFFFF;
+  color: #181818;
   font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-weight: 100;
@@ -16,7 +16,7 @@ body {
   width: 90vw;
   margin: 0 auto;
   font-size: 2rem;
-  font-weight: 900;
+  font-weight: 100;
 }
 
 .nav-left {
@@ -29,20 +29,20 @@ body {
   gap: 2rem;
 }
 .nav-right a {
-  color: #e2dfd5;
+  color: #6c7f91;
   text-decoration: none;
   font-size: 1.5rem;
   font-weight: 900;
   transition: color 0.18s;
 }
 .nav-right a:hover {
-  color: #08ca83;
+  color: #6c7f91;
 }
 
 .navbar-line {
   width: 100vw;
   height: 5px;
-  background: #08ca83;
+  background: #6c7f91;
   opacity: 1;
   margin: 32px 0 0 0;
 }
